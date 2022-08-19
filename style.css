@@ -1,0 +1,50 @@
+body {
+  font-family: "DM Sans", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Oswald", sans-serif;
+}
+section {
+  height: 500px;
+  background-color: rgb(228, 224, 224);
+  border: solid blueviolet 1px;
+}
+
+.hero-page-sec {
+  background-color: rgb(253, 253, 253);
+  height: 100vh;
+  color: black;
+  font-size: 18px;
+}
+
+footer {
+  background-color: rgb(110, 110, 110);
+  height: 400px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  margin: 30px;
+}
+
+ul {
+  margin: 30px;
+  display: flex;
+  font-size: 13px;
+  width: 375px;
+  justify-content: space-around;
+}
+
+li {
+  list-style-type: none;
+}
+
+.hero-text {
+  margin: 225px;
+  border-radius: 40px;
+  height: 100px;
+  text-align: center;
+}
