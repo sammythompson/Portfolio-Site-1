@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-site-1",
+  "version": "1.0.0",
+  "description": "This is my public portfolio. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css": "sass -w src/style.scss dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammythompson/Portfolio-Site-1.git"
+  },
+  "author": "Sammy Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammythompson/Portfolio-Site-1/issues"
+  },
+  "homepage": "https://github.com/sammythompson/Portfolio-Site-1#readme"
+}
